@@ -1,5 +1,7 @@
 #!/usr/bin/env ruby
 
+# Credit: https://github.com/felipec/vim-felipec
+
 require 'yaml'
 
 $data = YAML.load(ARGF, symbolize_names: true)
