@@ -4,7 +4,7 @@ information:
   name: onedark
 
 palette:
-  bg: "#282c34"
+  bg: "#1f2329"
   fg: "#abb2bf"
 
   blue: "#68aee8"
@@ -21,7 +21,7 @@ palette:
   yellow: "#d9bc87"
 
   comment: "#5c6370"
-  cursor: "#2c323c"
+  cursor: "#242931"
   gutter: "#4b5263"
   special: "#3b4048"
   visual: "#3e4452"
