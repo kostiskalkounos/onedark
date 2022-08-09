@@ -43,9 +43,9 @@ hi Function guifg=#68aee8 ctermfg=74 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Identifier guifg=#d9bc87 ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Ignore guifg=NONE ctermfg=NONE guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi IncSearch guifg=#1f2329 ctermfg=235 guibg=#c27fd7 ctermbg=140 gui=NONE cterm=NONE
-hi Include guifg=#c27fd7 ctermfg=140 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi Include guifg=#888fce ctermfg=104 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Keyword guifg=#c27fd7 ctermfg=140 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi Label guifg=#68aee8 ctermfg=74 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi Label guifg=#888fce ctermfg=104 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi LineNr guifg=#4b5263 ctermfg=240 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Macro guifg=#c27fd7 ctermfg=140 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi MatchParen guifg=#c9a0c2 ctermfg=181 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
@@ -127,7 +127,7 @@ hi TSStringEscape guifg=#5fafb9 ctermfg=73 guibg=NONE ctermbg=NONE gui=NONE cter
 hi TSStringRegex guifg=#99bc80 ctermfg=108 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSStringSpecial guifg=#99bc80 ctermfg=108 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSStrong guifg=#c99a6e ctermfg=173 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi TSTag guifg=#5fafb9 ctermfg=73 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi TSTag guifg=#88abce ctermfg=110 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSTagAttribute guifg=#d9bc87 ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSText guifg=#abb2bf ctermfg=249 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSTitle guifg=#68aee8 ctermfg=74 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
@@ -146,10 +146,10 @@ hi DiagnosticSignError guifg=#d9737b ctermfg=174 guibg=NONE ctermbg=NONE gui=NON
 hi DiagnosticSignHint guifg=#68aee8 ctermfg=74 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi DiagnosticSignInfo guifg=#c9a0c2 ctermfg=181 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi DiagnosticSignWarn guifg=#888fce ctermfg=104 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi DiagnosticUnderlineError guifg=NONE ctermfg=NONE guibg=NONE ctermbg=NONE gui=underline cterm=underline guisp=#d9737b
-hi DiagnosticUnderlineHint guifg=NONE ctermfg=NONE guibg=NONE ctermbg=NONE gui=underline cterm=underline guisp=#68aee8
-hi DiagnosticUnderlineInfo guifg=NONE ctermfg=NONE guibg=NONE ctermbg=NONE gui=underline cterm=underline guisp=#c9a0c2
-hi DiagnosticUnderlineWarn guifg=NONE ctermfg=NONE guibg=NONE ctermbg=NONE gui=underline cterm=underline guisp=#888fce
+hi DiagnosticUnderlineError guifg=NONE ctermfg=NONE guibg=NONE ctermbg=NONE gui=undercurl cterm=undercurl guisp=#d9737b
+hi DiagnosticUnderlineHint guifg=NONE ctermfg=NONE guibg=NONE ctermbg=NONE gui=undercurl cterm=undercurl guisp=#68aee8
+hi DiagnosticUnderlineInfo guifg=NONE ctermfg=NONE guibg=NONE ctermbg=NONE gui=undercurl cterm=undercurl guisp=#c9a0c2
+hi DiagnosticUnderlineWarn guifg=NONE ctermfg=NONE guibg=NONE ctermbg=NONE gui=undercurl cterm=undercurl guisp=#888fce
 hi DiagnosticVirtualTextError guifg=#d9737b ctermfg=174 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi DiagnosticVirtualTextHint guifg=#68aee8 ctermfg=74 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi DiagnosticVirtualTextInfo guifg=#c9a0c2 ctermfg=181 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
@@ -163,11 +163,8 @@ hi TelescopePromptPrefix guifg=#888fce ctermfg=104 guibg=NONE ctermbg=NONE gui=N
 hi TelescopeSelection guifg=#ffffff ctermfg=231 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TelescopeSelectionCaret guifg=#888fce ctermfg=104 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TelescopeTitle guifg=#888fce ctermfg=104 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi bashTSConstant guifg=#68aee8 ctermfg=74 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi bashTSParameter guifg=#5fafb9 ctermfg=73 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi bashTSVariable guifg=#68aee8 ctermfg=74 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi commentTSConstant guifg=#68aee8 ctermfg=74 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi cssTSProperty guifg=#68aee8 ctermfg=74 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi bashTSVariable guifg=#888fce ctermfg=104 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi fugitiveHelpHeader guifg=#c27fd7 ctermfg=140 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi fugitiveHelpTag guifg=#abb2bf ctermfg=249 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi gitcommitBranch guifg=#c27fd7 ctermfg=140 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
@@ -221,10 +218,8 @@ hi vimTSConstBuiltin guifg=#68aee8 ctermfg=74 guibg=NONE ctermbg=NONE gui=NONE c
 hi vimTSVariable guifg=#5fafb9 ctermfg=73 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi vimTSVariableBuiltin guifg=#d9bc87 ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi vimUsrCmd guifg=#68aee8 ctermfg=74 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi xmlAttrib guifg=#c99a6e ctermfg=173 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi xmlEndTag guifg=#68aee8 ctermfg=74 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi xmlTag guifg=#68aee8 ctermfg=74 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi xmlTagName guifg=#68aee8 ctermfg=74 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi xmlTag guifg=#88abce ctermfg=110 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi xmlTagName guifg=#888fce ctermfg=104 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi zshDeref guifg=#888fce ctermfg=104 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi zshFunction guifg=#68aee8 ctermfg=74 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi zshOperator guifg=#c9a0c2 ctermfg=181 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
