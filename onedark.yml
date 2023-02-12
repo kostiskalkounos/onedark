@@ -28,6 +28,7 @@ palette:
 
 highlights:
   Boolean: "orange"
+  Branch: "green cursor"
   Character: "green"
   ColorColumn: "- cursor"
   Comment: "comment"
@@ -78,7 +79,7 @@ highlights:
   Pmenu: "fg cursor"
   PmenuSbar: "- cursor"
   PmenuSel: "- visual"
-  PmenuThumb: "- comment"
+  PmenuThumb: "- visual"
   PreCondit: "blue"
   PreProc: "yellow"
   Question: "magenta"

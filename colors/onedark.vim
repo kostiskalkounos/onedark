@@ -8,6 +8,7 @@ endif
 let g:colors_name='onedark'
 
 hi Boolean guifg=#c99a6e ctermfg=173 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi Branch guifg=#99bc80 ctermfg=108 guibg=#242931 ctermbg=235 gui=NONE cterm=NONE
 hi Character guifg=#99bc80 ctermfg=108 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi ColorColumn guifg=NONE ctermfg=NONE guibg=#242931 ctermbg=235 gui=NONE cterm=NONE
 hi Comment guifg=#5c6370 ctermfg=241 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
@@ -58,7 +59,7 @@ hi Operator guifg=#c9a0c2 ctermfg=181 guibg=NONE ctermbg=NONE gui=NONE cterm=NON
 hi Pmenu guifg=#abb2bf ctermfg=249 guibg=#242931 ctermbg=235 gui=NONE cterm=NONE
 hi PmenuSbar guifg=NONE ctermfg=NONE guibg=#242931 ctermbg=235 gui=NONE cterm=NONE
 hi PmenuSel guifg=NONE ctermfg=NONE guibg=#3e4452 ctermbg=238 gui=NONE cterm=NONE
-hi PmenuThumb guifg=NONE ctermfg=NONE guibg=#5c6370 ctermbg=241 gui=NONE cterm=NONE
+hi PmenuThumb guifg=NONE ctermfg=NONE guibg=#3e4452 ctermbg=238 gui=NONE cterm=NONE
 hi PreCondit guifg=#68aee8 ctermfg=74 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi PreProc guifg=#d9bc87 ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Question guifg=#c27fd7 ctermfg=140 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
