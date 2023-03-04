@@ -24,6 +24,8 @@ hi Debug guifg=NONE ctermfg=NONE guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi DebugBreakpoint guifg=NONE ctermfg=NONE guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi DebugPC guifg=NONE ctermfg=NONE guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Define guifg=#c27fd7 ctermfg=140 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi qfFileName guifg=#888fce ctermfg=104 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi qfLineNr guifg=#c27fd7 ctermfg=140 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Delimiter guifg=#c9a0c2 ctermfg=181 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi DiffAdd guifg=#1f2329 ctermfg=235 guibg=#99bc80 ctermbg=108 gui=NONE cterm=NONE
 hi DiffAdded guifg=#99bc80 ctermfg=108 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
@@ -63,7 +65,7 @@ hi PmenuThumb guifg=NONE ctermfg=NONE guibg=#3e4452 ctermbg=238 gui=NONE cterm=N
 hi PreCondit guifg=#68aee8 ctermfg=74 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi PreProc guifg=#d9bc87 ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Question guifg=#c27fd7 ctermfg=140 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi QuickFixLine guifg=#1f2329 ctermfg=235 guibg=#68aee8 ctermbg=74 gui=NONE cterm=NONE
+hi QuickFixLine guifg=NONE ctermfg=NONE guibg=#242931 ctermbg=235 gui=NONE cterm=NONE
 hi Repeat guifg=#c27fd7 ctermfg=140 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Search guifg=#1f2329 ctermfg=235 guibg=#68aee8 ctermbg=74 gui=NONE cterm=NONE
 hi SignColumn guifg=NONE ctermfg=NONE guibg=#1f2329 ctermbg=235 gui=NONE cterm=NONE
