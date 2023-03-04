@@ -134,6 +134,7 @@ hi @strong guifg=#c99a6e ctermfg=173 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi @tag guifg=#88abce ctermfg=110 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi @tag.attribute guifg=#d9bc87 ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi @text guifg=#abb2bf ctermfg=249 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi @text.literal guifg=#88abce ctermfg=110 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi @text.note guifg=#c9a0c2 ctermfg=181 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi @text.warning guifg=#c9a0c2 ctermfg=181 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi @title guifg=#68aee8 ctermfg=74 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE

@@ -155,6 +155,7 @@ highlights:
   "@tag": "frost"
   "@tag.attribute": "yellow"
   "@text": "fg"
+  "@text.literal": "frost"
   "@text.note": "pink"
   "@text.warning": "pink"
   "@title": "blue"
