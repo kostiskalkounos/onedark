@@ -133,7 +133,7 @@ hi @stringEscape guifg=#5fafb9 ctermfg=73 guibg=NONE ctermbg=NONE gui=NONE cterm
 hi @stringRegex guifg=#99bc80 ctermfg=108 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi @stringSpecial guifg=#99bc80 ctermfg=108 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi @strong guifg=#c99a6e ctermfg=173 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi @tag guifg=#88abce ctermfg=110 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi @tag guifg=#5fafb9 ctermfg=73 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi @tag.attribute guifg=#d9bc87 ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi @text guifg=#abb2bf ctermfg=249 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi @text.literal guifg=#88abce ctermfg=110 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE

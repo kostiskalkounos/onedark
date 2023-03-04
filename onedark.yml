@@ -154,7 +154,7 @@ highlights:
   "@stringRegex": "green"
   "@stringSpecial": "green"
   "@strong": "orange"
-  "@tag": "frost"
+  "@tag": "cyan"
   "@tag.attribute": "yellow"
   "@text": "fg"
   "@text.literal": "frost"
