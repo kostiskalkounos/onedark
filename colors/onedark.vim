@@ -107,7 +107,7 @@ hi helpExample guifg=#99bc80 ctermfg=108 guibg=NONE ctermbg=NONE gui=NONE cterm=
 hi @annotation guifg=#d9bc87 ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi @attribute guifg=#5fafb9 ctermfg=73 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi @constBuiltin guifg=#96b5d3 ctermfg=110 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi @constructor guifg=#68aee8 ctermfg=74 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi @constructor guifg=#5fafb9 ctermfg=73 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi @danger guifg=#c9a0c2 ctermfg=181 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi @emphasis guifg=#abb2bf ctermfg=249 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi @environment guifg=#68aee8 ctermfg=74 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
@@ -135,6 +135,7 @@ hi @stringSpecial guifg=#99bc80 ctermfg=108 guibg=NONE ctermbg=NONE gui=NONE cte
 hi @strong guifg=#c99a6e ctermfg=173 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi @tag guifg=#5fafb9 ctermfg=73 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi @tag.attribute guifg=#d9bc87 ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi @tag.delimiter guifg=#88abce ctermfg=110 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi @text guifg=#abb2bf ctermfg=249 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi @text.literal guifg=#88abce ctermfg=110 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi @text.note guifg=#c9a0c2 ctermfg=181 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
