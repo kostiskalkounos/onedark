@@ -153,7 +153,7 @@ hi @lsp.type.enum guifg=#56b6c2 ctermfg=73 guibg=NONE ctermbg=NONE gui=NONE cter
 hi @lsp.type.enumMember guifg=#96bfd3 ctermfg=110 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi @lsp.type.function guifg=#61afef ctermfg=75 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi @lsp.type.interface guifg=#56b6c2 ctermfg=73 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi @lsp.type.macro guifg=#61afef ctermfg=75 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi @lsp.type.macro guifg=#96bfd3 ctermfg=110 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi @lsp.type.method guifg=#61afef ctermfg=75 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi @lsp.type.namespace guifg=#56b6c2 ctermfg=73 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi @lsp.type.parameter guifg=#abb2bf ctermfg=249 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE

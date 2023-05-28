@@ -175,7 +175,7 @@ highlights:
   "@lsp.type.enumMember": "ice"
   "@lsp.type.function": "blue"
   "@lsp.type.interface": "cyan"
-  "@lsp.type.macro": "blue"
+  "@lsp.type.macro": "ice"
   "@lsp.type.method": "blue"
   "@lsp.type.namespace": "cyan"
   "@lsp.type.parameter": "fg"
