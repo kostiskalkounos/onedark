@@ -102,7 +102,7 @@ highlights:
   StatusLineNC: "comment"
   StatusLineTerm: "fg cursor"
   StatusLineTermNC: "cursor"
-  StorageClass: "blue"
+  StorageClass: "magenta"
   String: "green"
   Structure: "yellow"
   TabLine: "comment"
