@@ -22,33 +22,33 @@ local colors = {
 
 return {
   normal = {
-    a = { fg = colors.purple, bg = colors.cursor },
-    b = { fg = colors.purple, bg = colors.cursor },
+    a = { fg = colors.fg, bg = colors.cursor },
+    b = { fg = colors.fg, bg = colors.cursor },
     c = { fg = colors.fg, bg = colors.cursor },
   },
   command = {
-    a = { fg = colors.purple, bg = colors.cursor },
-    b = { fg = colors.purple, bg = colors.cursor },
+    a = { fg = colors.fg, bg = colors.cursor },
+    b = { fg = colors.fg, bg = colors.cursor },
     c = { fg = colors.fg, bg = colors.cursor },
   },
   insert = {
-    a = { fg = colors.purple, bg = colors.cursor },
-    b = { fg = colors.purple, bg = colors.cursor },
+    a = { fg = colors.fg, bg = colors.cursor },
+    b = { fg = colors.fg, bg = colors.cursor },
     c = { fg = colors.fg, bg = colors.cursor },
   },
   visual = {
-    a = { fg = colors.purple, bg = colors.cursor },
-    b = { fg = colors.purple, bg = colors.cursor },
+    a = { fg = colors.fg, bg = colors.cursor },
+    b = { fg = colors.fg, bg = colors.cursor },
     c = { fg = colors.fg, bg = colors.cursor },
   },
   terminal = {
-    a = { fg = colors.purple, bg = colors.cursor },
-    b = { fg = colors.purple, bg = colors.cursor },
+    a = { fg = colors.fg, bg = colors.cursor },
+    b = { fg = colors.fg, bg = colors.cursor },
     c = { fg = colors.fg, bg = colors.cursor },
   },
   replace = {
-    a = { fg = colors.purple, bg = colors.cursor },
-    b = { fg = colors.purple, bg = colors.cursor },
+    a = { fg = colors.fg, bg = colors.cursor },
+    b = { fg = colors.fg, bg = colors.cursor },
     c = { fg = colors.fg, bg = colors.cursor },
   },
   inactive = {
