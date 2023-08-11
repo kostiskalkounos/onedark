@@ -296,3 +296,4 @@ hi yamlFlowIndicator guifg=#88abce ctermfg=110 guibg=NONE ctermbg=NONE gui=NONE 
 hi yamlFlowMapping guifg=#88abce ctermfg=110 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi yamlKeyValueDelimiter guifg=#c9a0c2 ctermfg=181 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi yamlPlainScalar guifg=#98c379 ctermfg=114 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi jpropertiesIdentifier guifg=#9697d4 ctermfg=104 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE

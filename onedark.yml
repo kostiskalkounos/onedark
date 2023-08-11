@@ -320,3 +320,5 @@ highlights:
   yamlFlowMapping: "frost"
   yamlKeyValueDelimiter: "pink"
   yamlPlainScalar: "green"
+
+  jpropertiesIdentifier: "purple"
