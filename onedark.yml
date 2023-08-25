@@ -136,6 +136,7 @@ highlights:
   "@field": "purple"
   "@funcMacro": "blue"
   "@function.builtin": "cyan"
+  "@keyword": "magenta"
   "@keywordFunction": "magenta"
   "@keywordOperator": "magenta"
   "@literal": "fg"
