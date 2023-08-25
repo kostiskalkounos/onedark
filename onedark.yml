@@ -127,7 +127,7 @@ highlights:
 
   "@annotation": "yellow"
   "@attribute": "cyan"
-  "@constBuiltin": "ice"
+  "@constant.builtin": "ice"
   "@constructor": "blue"
   "@danger": "pink"
   "@emphasis": "fg"

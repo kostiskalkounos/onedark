@@ -106,7 +106,7 @@ hi helpCommand guifg=#61afef ctermfg=75 guibg=NONE ctermbg=NONE gui=NONE cterm=N
 hi helpExample guifg=#98c379 ctermfg=114 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi @annotation guifg=#e5c07b ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi @attribute guifg=#56b6c2 ctermfg=73 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi @constBuiltin guifg=#96bfd3 ctermfg=110 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi @constant.builtin guifg=#96bfd3 ctermfg=110 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi @constructor guifg=#61afef ctermfg=75 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi @danger guifg=#c9a0c2 ctermfg=181 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi @emphasis guifg=#abb2bf ctermfg=249 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
