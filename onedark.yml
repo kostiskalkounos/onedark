@@ -171,6 +171,7 @@ highlights:
   "@variable.builtin": "magenta"
   "@warning": "pink"
 
+  "@lsp.mod.defaultLibrary.lua": "cyan"
   "@lsp.type.class": "yellow"
   "@lsp.type.decorator": "pink"
   "@lsp.type.enum": "cyan"
