@@ -141,6 +141,7 @@ hi @tag.delimiter guifg=#88abce ctermfg=110 guibg=NONE ctermbg=NONE gui=NONE cte
 hi @text guifg=#abb2bf ctermfg=249 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi @text.literal guifg=#88abce ctermfg=110 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi @text.note guifg=#c9a0c2 ctermfg=181 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi @text.reference guifg=#56b6c2 ctermfg=73 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi @text.warning guifg=#c9a0c2 ctermfg=181 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi @title guifg=#61afef ctermfg=75 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi @type guifg=#e5c07b ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE

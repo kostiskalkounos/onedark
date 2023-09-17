@@ -162,6 +162,7 @@ highlights:
   "@text": "fg"
   "@text.literal": "frost"
   "@text.note": "pink"
+  "@text.reference": "cyan"
   "@text.warning": "pink"
   "@title": "blue"
   "@type": "yellow"
