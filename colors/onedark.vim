@@ -228,6 +228,10 @@ hi TelescopeSelectionCaret guifg=#9697d4 ctermfg=104 guibg=NONE ctermbg=NONE gui
 hi TelescopeTitle guifg=#9697d4 ctermfg=104 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi bashTSParameter guifg=#56b6c2 ctermfg=73 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi bashTSVariable guifg=#9697d4 ctermfg=104 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi cssBoxProp guifg=#9697d4 ctermfg=104 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi cssBraces guifg=#88abce ctermfg=110 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi cssFontProp guifg=#9697d4 ctermfg=104 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi cssTextProp guifg=#9697d4 ctermfg=104 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi fugitiveHelpHeader guifg=#c678dd ctermfg=176 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi fugitiveHelpTag guifg=#abb2bf ctermfg=249 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi gitcommitBranch guifg=#c678dd ctermfg=176 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
@@ -279,6 +283,9 @@ hi masonExpr guifg=#88abce ctermfg=110 guibg=NONE ctermbg=NONE gui=NONE cterm=NO
 hi plugName guifg=#c678dd ctermfg=176 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi pythonTSFuncBuiltin guifg=#56b6c2 ctermfg=73 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi rstTSLiteral guifg=#98c379 ctermfg=114 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi sassClassChar guifg=#c9a0c2 ctermfg=181 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi sassMixing guifg=#96bfd3 ctermfg=110 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi sassProperty guifg=#56b6c2 ctermfg=73 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi sqlFold guifg=#9697d4 ctermfg=104 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi vimAugroup guifg=#61afef ctermfg=75 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi vimBracket guifg=#abb2bf ctermfg=249 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
