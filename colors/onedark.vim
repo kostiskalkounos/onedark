@@ -161,12 +161,14 @@ hi @lsp.type.macro guifg=#96bfd3 ctermfg=110 guibg=NONE ctermbg=NONE gui=NONE ct
 hi @lsp.type.method guifg=#61afef ctermfg=75 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi @lsp.type.namespace guifg=#56b6c2 ctermfg=73 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi @lsp.type.parameter guifg=#abb2bf ctermfg=249 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi @lsp.type.parameter.dockerfile guifg=#98c379 ctermfg=114 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi @lsp.type.parameter.terraform guifg=#9697d4 ctermfg=104 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi @lsp.type.property guifg=#9697d4 ctermfg=104 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi @lsp.type.struct guifg=#e5c07b ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi @lsp.type.type guifg=#e5c07b ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi @lsp.type.type.terraform guifg=#c678dd ctermfg=176 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi @lsp.type.typeParameter guifg=#e5c07b ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi @lsp.type.variable guifg=#abb2bf ctermfg=249 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi @lsp.type.parameter.dockerfile guifg=#98c379 ctermfg=114 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi @lsp.type.variable.dockerfile guifg=#88abce ctermfg=110 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi CmpItemAbbrMatch guifg=#c678dd ctermfg=176 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi CmpItemAbbrMatchFuzzy guifg=#c678dd ctermfg=176 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
